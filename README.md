@@ -1,6 +1,6 @@
 # geseib
 
-Cloud engineer focusing on AWS networking, serverless applications, and automation. This profile highlights hands-on workshops, infrastructure templates, scripting utilities, and a commitment to working backwards from customer needs.
+Principal Software Engineer at JPMorgan, developing firmwide patterns for secure and resilient cloud application governance. Cloud engineer focusing on AWS networking, serverless applications, and automation. This profile highlights hands-on workshops, infrastructure templates, scripting utilities, and a commitment to working backwards from customer needs. Connect via [LinkedIn](https://www.linkedin.com/in/george-seib/) for full professional background.
 
 ## Working Backwards & Engagements
 - Document goals and success metrics before writing a line of code and craft a PRFAQ to clarify the customer problem.
@@ -21,11 +21,30 @@ Cloud engineer focusing on AWS networking, serverless applications, and automati
 - **Automation tools & samples** – Utilities including `r53resolverhelper`, `project1`, and `nexus-vlans` showcase Python and shell scripts for infrastructure management and testing.
 - **Engagement & event collaboration** – Repositories like `engagements`, `awselbworkshop`, and `multitgwworkshop` capture real-time collaboration for projects, teams, and organizations using React, serverless, and single-table design applications.
 
+## Featured Workshops
+- [AWS AppSync Calorie Tracker Workshop](https://github.com/geseib/aws-appsync-calorie-tracker-workshop) – Serverless GraphQL APIs with AppSync, Lambda, and DynamoDB.
+- [AWS Lambda Zombie Workshop](https://github.com/geseib/aws-lambda-zombie-workshop) – Zombie-themed lab teaching Lambda, API Gateway, and DynamoDB.
+- [AWS Serverless WebApp Workshop](https://github.com/geseib/aws-serverless-webapp-workshop) – Full-stack application built with Lambda, DynamoDB, S3, and CloudFront.
+- [AWS Networking Workshop](https://github.com/geseib/awsnetworkshop) – Hands-on labs covering VPC design, Transit Gateway, and network connectivity patterns.
+
 ## Notable Gists
 - `s3etag2md5hash.py` – Compare an Amazon S3 object's ETag with a local MD5 hash.
 - `byoip.sh` – Automate Bring Your Own IP setup for AWS.
 - `gistfile1.txt` – Shell script to compare service availability across AWS regions.
 - Additional snippets cover EC2 user data initialization and PHP access to AWS Secrets Manager.
+
+## Certifications
+- AWS Certified Advanced Networking – Specialty (valid through May 2027)
+- AWS Certified Security – Specialty (valid through April 2026)
+- AWS Certified DevOps Engineer – Professional (valid through February 2026)
+- AWS Certified Database – Specialty (valid through January 2026)
+- AWS Certified Solutions Architect – Professional (valid through July 2027)
+- AWS Certified Solutions Architect – Associate (valid through July 2027)
+- AWS Cloud Quest: Data Analytics
+- AWS Cloud Quest: Solutions Architect
+- AWS Cloud Quest: Serverless Developer
+- AWS Cloud Quest: Cloud Practitioner
+- AWS Cloud Quest: Security
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/george-seib/) – Professional background and roles.
