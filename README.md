@@ -1,6 +1,6 @@
 # geseib
 
-Principal Software Engineer at JPMorgan, developing firmwide patterns for secure and resilient cloud application governance. Cloud engineer focusing on AWS networking, serverless applications, and automation. This profile highlights hands-on workshops, infrastructure templates, scripting utilities, and a commitment to working backwards from customer needs. Connect via [LinkedIn](https://www.linkedin.com/in/george-seib/) for full professional background.
+Principal Software Engineer at JPMorgan, developing firmwide patterns for secure and resilient cloud application governance. Cloud engineer focusing on AWS networking, serverless applications, and automation. This profile highlights hands-on workshops, infrastructure templates, scripting utilities, and a commitment to working backwards from customer needs. Connect via [LinkedIn]([https://www.linkedin.com/in/geseib) for full professional background.
 
 ## Working Backwards & Engagements
 - Document goals and success metrics before writing a line of code and craft a PRFAQ to clarify the customer problem.
